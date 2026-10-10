@@ -1,0 +1,6 @@
+{
+  "name": "SpellBee",
+  "description": "A fun, colorful, and engaging English spelling quiz app with bee-themed challenges, audio pronunciation, and instant score sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

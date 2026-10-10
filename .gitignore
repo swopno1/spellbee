@@ -1,0 +1,23 @@
+*.iml
+.gradle/
+.kotlin/
+.idea/
+local.properties
+/local.properties
+.DS_Store
+**/build/
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+.env
+.env.*
+*.jks
+*.keystore
+*.pem
+*.p12
+
+# Build outputs (allow production_build to be intentionally managed)
+*.apk
+*.apks
+*.xapk
